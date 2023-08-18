@@ -1,1 +1,0 @@
-document.body.innerHTML = '<h1>Hello 1</h1>'
